@@ -1,0 +1,14 @@
+c:\Users\isak.eriksson4\proggramering\02-Listor,arrayer\02-Listor,arrayer\bin\Debug\net8.0\02-Listor,arrayer.exe
+c:\Users\isak.eriksson4\proggramering\02-Listor,arrayer\02-Listor,arrayer\bin\Debug\net8.0\02-Listor,arrayer.deps.json
+c:\Users\isak.eriksson4\proggramering\02-Listor,arrayer\02-Listor,arrayer\bin\Debug\net8.0\02-Listor,arrayer.runtimeconfig.json
+c:\Users\isak.eriksson4\proggramering\02-Listor,arrayer\02-Listor,arrayer\bin\Debug\net8.0\02-Listor,arrayer.dll
+c:\Users\isak.eriksson4\proggramering\02-Listor,arrayer\02-Listor,arrayer\bin\Debug\net8.0\02-Listor,arrayer.pdb
+c:\Users\isak.eriksson4\proggramering\02-Listor,arrayer\02-Listor,arrayer\obj\Debug\net8.0\02-Listor,arrayer.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\isak.eriksson4\proggramering\02-Listor,arrayer\02-Listor,arrayer\obj\Debug\net8.0\02-Listor,arrayer.AssemblyInfoInputs.cache
+c:\Users\isak.eriksson4\proggramering\02-Listor,arrayer\02-Listor,arrayer\obj\Debug\net8.0\02-Listor,arrayer.AssemblyInfo.cs
+c:\Users\isak.eriksson4\proggramering\02-Listor,arrayer\02-Listor,arrayer\obj\Debug\net8.0\02-Listor,arrayer.csproj.CoreCompileInputs.cache
+c:\Users\isak.eriksson4\proggramering\02-Listor,arrayer\02-Listor,arrayer\obj\Debug\net8.0\02-Listor,arrayer.dll
+c:\Users\isak.eriksson4\proggramering\02-Listor,arrayer\02-Listor,arrayer\obj\Debug\net8.0\refint\02-Listor,arrayer.dll
+c:\Users\isak.eriksson4\proggramering\02-Listor,arrayer\02-Listor,arrayer\obj\Debug\net8.0\02-Listor,arrayer.pdb
+c:\Users\isak.eriksson4\proggramering\02-Listor,arrayer\02-Listor,arrayer\obj\Debug\net8.0\02-Listor,arrayer.genruntimeconfig.cache
+c:\Users\isak.eriksson4\proggramering\02-Listor,arrayer\02-Listor,arrayer\obj\Debug\net8.0\ref\02-Listor,arrayer.dll
